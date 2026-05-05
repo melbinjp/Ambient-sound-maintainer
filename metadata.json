@@ -1,0 +1,6 @@
+{
+  "name": "QuietZone Manager",
+  "description": "Monitors ambient sound. Triggers an alert and records evidence if the noise exceeds acceptable levels.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
